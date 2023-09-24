@@ -25,6 +25,3 @@ let palavraTentativa = tentativas > 1 ? `attempts`: `attempt`;
 alert(`You guessed the secret number correctly ${numeroSecreto} , with  ${tentativas} ${palavraTentativa} `);
 
 
-
-
-
